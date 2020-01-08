@@ -3,4 +3,5 @@ A classification ML model to predict Car Condition by using Decision Tree and Ra
 
 # Accuracy
 Random Forest: 97%
+
 Decision Tree: 97%
